@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USER": "dip_shojol",
+        "MONGO_PASSWORD": "HSMQwWDsKcS9aSJ2",
+        "MONGO_DB": "my-effect"
+    }
+}
